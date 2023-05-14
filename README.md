@@ -1,7 +1,7 @@
 # Integrando_Python_SQLite__MongoDB
  Integrando Python com SQLite e MongoDB
  
- Entendendo o Desafio
+# Entendendo o Desafio
  
 Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore todos os conceitos explorados até aqui e replique (ou melhore, porque não?) este projeto prático. Para isso, crie seu próprio repositório e aumente ainda mais seu portfólio de projetos no GitHub, o qual pode fazer toda diferença em suas entrevistas técnicas 😎
  
@@ -17,10 +17,7 @@ Objetivo:
 
 Neste desafio você irá implementar uma aplicação de integração com SQLite com base em um esquema relacional disponibilizado. Sendo assim, utilize o esquema dentro do contexto de cliente e conta para criar as classes de sua API. Essas classes irão representar as tabelas do banco de dados relacional dentro da aplicação.
 
- 
-
-
-
+ ![image](https://github.com/Jonny23Parker/Integrando_Python_SQLite__MongoDB/assets/101059784/e393870e-1de3-4699-ad7b-a26df8f69578)
  
 
 Entregável:
